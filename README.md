@@ -55,6 +55,8 @@ We said no.
 
 ## 📸 Screenshots
 
+https://github.com/user-attachments/assets/f9921af9-35b0-4cf3-8de6-a21bcc6513b1
+
 > Coming soon — drop a PR with your screenshots!
 
 ---
